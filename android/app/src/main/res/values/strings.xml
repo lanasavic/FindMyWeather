@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FindMyWeather</string>
+    <string name="title_activity_main">FindMyWeather</string>
+    <string name="package_name">com.lsavic.FindMyWeather</string>
+    <string name="custom_url_scheme">com.lsavic.FindMyWeather</string>
+</resources>
